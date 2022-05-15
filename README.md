@@ -1,0 +1,2 @@
+# QuantumultXConfig
+QuantumultXConfig
